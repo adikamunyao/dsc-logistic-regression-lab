@@ -1,4 +1,4 @@
-# Logistic Regression - Cumulative Lab
+# Logistic Regression
 
 ## Introduction
 
